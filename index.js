@@ -33,3 +33,9 @@ if ((x = 1)|| (y=3)) {
 if (!x){
     console.log('x is not ture')
 }
+if ((x = 1)|| (y=3)) {
+    console.log('|| operator tested');
+}
+for (let i=0; i<10; i++){
+ console.log(i);
+}
